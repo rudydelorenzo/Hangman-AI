@@ -1,1 +1,1 @@
-# HangmanAI
+# Hangman AI
