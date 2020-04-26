@@ -1,3 +1,4 @@
+//Copyright © 2020 - Rodrigo de Lorenzo
 package hangmanai;
 
 import javax.swing.*;
